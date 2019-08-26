@@ -1,0 +1,50 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1070]
+    Renderer: NVIDIA GeForce GTX 470
+    Vendor:   NVIDIA
+    VRAM:     1233 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Initialize engine version: 3.5.2f2
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Murray\Documents\QixB\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Murray\Documents\QixB\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Murray\Documents\QixB\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Murray\Documents\QixB\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\Murray\Documents\QixB\test_Data\Managed\System.Core.dll (this message is harmless)
+New rects
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+xxx4:0
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+xxx2:1
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+xxx3:2
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+xxx1:3
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+V16,16
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+U16
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+T24
+ 
+(Filename: C:/BuildAgent/work/300357e52574df36/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
