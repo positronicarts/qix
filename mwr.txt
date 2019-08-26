@@ -1,4 +1,0 @@
-Qix at (-0.4, -0.5, 0.0)
-Rects1...(False)
-(left:-0.45, top:0.13, width:0.00, height:0.41)False(left:-1.00, top:0.13, width:0.55, height:0.41)False(left:-1.00, top:0.00, width:0.55, height:0.13)False(left:-0.45, top:0.00, width:0.00, height:0.13)False(left:-1.00, top:-0.68, width:0.55, height:0.68)False(left:-0.45, top:-0.68, width:0.00, height:0.68)False(left:-1.00, top:-1.00, width:0.55, height:0.32)False(left:-0.45, top:-1.00, width:0.00, height:0.32)FalseRects2...(False)
-(left:-0.45, top:0.00, width:0.00, height:0.13)False(left:-1.00, top:0.00, width:0.55, height:0.13)False(left:-0.45, top:-0.68, width:0.00, height:0.68)False(left:-1.00, top:-0.68, width:0.55, height:0.68)False(left:-1.00, top:0.13, width:0.55, height:0.41)False(left:-0.45, top:-1.00, width:0.00, height:0.32)False(left:-1.00, top:-1.00, width:0.55, height:0.32)False(left:-0.45, top:0.13, width:0.00, height:0.41)False
